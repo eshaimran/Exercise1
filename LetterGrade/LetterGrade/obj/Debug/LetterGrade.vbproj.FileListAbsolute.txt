@@ -1,0 +1,12 @@
+C:\Users\Yousuf Traders\source\repos\LetterGrade\LetterGrade\bin\Debug\LetterGrade.exe.config
+C:\Users\Yousuf Traders\source\repos\LetterGrade\LetterGrade\bin\Debug\LetterGrade.exe
+C:\Users\Yousuf Traders\source\repos\LetterGrade\LetterGrade\bin\Debug\LetterGrade.pdb
+C:\Users\Yousuf Traders\source\repos\LetterGrade\LetterGrade\bin\Debug\LetterGrade.xml
+C:\Users\Yousuf Traders\source\repos\LetterGrade\LetterGrade\obj\Debug\LetterGrade.vbprojAssemblyReference.cache
+C:\Users\Yousuf Traders\source\repos\LetterGrade\LetterGrade\obj\Debug\LetterGrade.Form1.resources
+C:\Users\Yousuf Traders\source\repos\LetterGrade\LetterGrade\obj\Debug\LetterGrade.Resources.resources
+C:\Users\Yousuf Traders\source\repos\LetterGrade\LetterGrade\obj\Debug\LetterGrade.vbproj.GenerateResource.cache
+C:\Users\Yousuf Traders\source\repos\LetterGrade\LetterGrade\obj\Debug\LetterGrade.vbproj.CoreCompileInputs.cache
+C:\Users\Yousuf Traders\source\repos\LetterGrade\LetterGrade\obj\Debug\LetterGrade.exe
+C:\Users\Yousuf Traders\source\repos\LetterGrade\LetterGrade\obj\Debug\LetterGrade.xml
+C:\Users\Yousuf Traders\source\repos\LetterGrade\LetterGrade\obj\Debug\LetterGrade.pdb

@@ -1,0 +1,12 @@
+C:\Users\Yousuf Traders\source\repos\BasicApp\BasicApp\bin\Debug\BasicApp.exe.config
+C:\Users\Yousuf Traders\source\repos\BasicApp\BasicApp\bin\Debug\BasicApp.exe
+C:\Users\Yousuf Traders\source\repos\BasicApp\BasicApp\bin\Debug\BasicApp.pdb
+C:\Users\Yousuf Traders\source\repos\BasicApp\BasicApp\bin\Debug\BasicApp.xml
+C:\Users\Yousuf Traders\source\repos\BasicApp\BasicApp\obj\Debug\BasicApp.vbprojAssemblyReference.cache
+C:\Users\Yousuf Traders\source\repos\BasicApp\BasicApp\obj\Debug\BasicApp.Form1.resources
+C:\Users\Yousuf Traders\source\repos\BasicApp\BasicApp\obj\Debug\BasicApp.Resources.resources
+C:\Users\Yousuf Traders\source\repos\BasicApp\BasicApp\obj\Debug\BasicApp.vbproj.GenerateResource.cache
+C:\Users\Yousuf Traders\source\repos\BasicApp\BasicApp\obj\Debug\BasicApp.vbproj.CoreCompileInputs.cache
+C:\Users\Yousuf Traders\source\repos\BasicApp\BasicApp\obj\Debug\BasicApp.exe
+C:\Users\Yousuf Traders\source\repos\BasicApp\BasicApp\obj\Debug\BasicApp.xml
+C:\Users\Yousuf Traders\source\repos\BasicApp\BasicApp\obj\Debug\BasicApp.pdb
